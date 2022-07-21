@@ -1,16 +1,11 @@
-/******** link  *********/
-
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
-
-/****** default css ******/
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
 }
 
-/****** header part ******/
 .container {
     width: 80%;
     height: 420px;
@@ -32,7 +27,6 @@ body {
     font-size: 14px;
 }
 
-/******button animation start  ******/
 .button-animation .header-button {
     width: 200px;
     height: 60px;
@@ -70,13 +64,10 @@ body {
     z-index: -1;
 }
 
-/******button animation end  ******/
 
 .header-right img {
     height: 430px;
 }
-
-/****** button and blog part ******/
 
 .buttons-and-blogs-container {
     width: 80%;
@@ -200,14 +191,13 @@ body {
     visibility: hidden;
 }
 
-/****** footer part ******/
 footer {
     background-color: rgba(0, 10, 0, 1);
     height: 280px;
 }
 
 footer h2 {
-    color: #7cbb6c;
+    color: white;
     text-align: center;
     font-style: italic;
     padding-top: 80px;
